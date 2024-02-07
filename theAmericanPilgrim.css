@@ -1,0 +1,23 @@
+#head{
+    background-color: tan;
+    color: black;
+}
+body{
+    text-align: center;
+    background-color: darkred;
+    color: white; 
+}
+img{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#link{
+    background-color: white;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
